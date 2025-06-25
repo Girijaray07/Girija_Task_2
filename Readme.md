@@ -1,4 +1,4 @@
-# 📝 Python To-Do List CLI App
+# [![📝 Python To-Do List CLI App](./Images/Header.png)](https://github.com/Girijaray07/Girija_Task_2)
 
 A **Command Line Interface (CLI)** based To-Do List application in Python that allows users to **add**, **remove**, **update**, **view**, **save**, and **load** tasks with their statuses. Ideal for basic task tracking via terminal.
 
